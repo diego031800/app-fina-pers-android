@@ -1,2 +1,2 @@
-# app-fina-pers
+# app-fina-pers-android
 Aplicación mobile para finanzas personales
